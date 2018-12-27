@@ -3,5 +3,14 @@
 $color: pink;
 .test {
   color: $color;
-  font-family: daunpenh;
+  font-family: SixCaps;
+}
+
+
+h1 {
+  margin: 0;
+  a {
+    color: black;
+    text-decoration: none;
+  }
 }

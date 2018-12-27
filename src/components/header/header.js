@@ -5,12 +5,7 @@ import React from 'react'
 import './header.scss'
 
 const Header = ({ siteTitle }) => (
-  <div
-    style={{
-      background: 'rebeccapurple',
-      marginBottom: '1.45rem',
-    }}
-  >
+  <div className="header">
     <div
       style={{
         margin: '0 auto',
@@ -19,13 +14,7 @@ const Header = ({ siteTitle }) => (
       }}
     >
       <h1 style={{ margin: 0 }}>
-        <Link
-          to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
-        >
+        <Link to="/">
           {siteTitle}
         </Link>
       </h1>
