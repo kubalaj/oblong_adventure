@@ -7,16 +7,13 @@ import SEO from '../components/seo'
 
 require('../styles/main.scss')
 
+const keywords = ['adventure', 'blog', 'kayak', 'whitewater', 'trail', 'running', 'stories', 'van', 'sking'];
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" keywords={['gatsby', 'application', 'react']} />
-    <h1>Hey</h1>
-    <p className='test'>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
+    <SEO title="Home" keywords={keywords} />
+    <Link to="/stories/">stories</Link>
+    <Link to="/gear/">gear</Link>
+    <Link to="/trip-reports/">trip reports</Link>
   </Layout>
 )
 
