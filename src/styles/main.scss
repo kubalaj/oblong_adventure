@@ -1,9 +1,10 @@
-@import './typography';
+// @import './typography';
 
 $color: pink;
 .test {
   color: $color;
-  font-family: SixCaps;
+  // font-family: 'Permanent Marker', Cursive;
+  Font-Family: 'Overpass', Sans-Serif;
 }
 
 
