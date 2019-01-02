@@ -12,9 +12,6 @@ const keywords = ['adventure', 'blog', 'kayak', 'whitewater', 'trail', 'running'
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" keywords={keywords} />
-    <Link to="/stories/">stories</Link>
-    <Link to="/gear/">gear</Link>
-    <Link to="/trip-reports/">trip reports</Link>
   </Layout>
 )
 
