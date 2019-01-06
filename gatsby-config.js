@@ -5,6 +5,13 @@ module.exports = {
     author: '@kubalaj',
   },
   plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/`,
+      },
+    },
     `gatsby-plugin-sass`,
     {
       resolve: `gatsby-plugin-google-fonts`,
