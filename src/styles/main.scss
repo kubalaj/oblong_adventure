@@ -16,6 +16,9 @@ h1 {
     color: black;
     text-decoration: none;
   }
+  &:hover {
+    font-family: 'Permanent Marker', Cursive;
+  }
 }
 p, div, span {
   font-family: 'Overpass', Sans-Serif;
