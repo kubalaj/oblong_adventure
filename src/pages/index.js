@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
@@ -27,11 +28,19 @@ export default ({data}) => (
           </div>
         ))}
       </div>
+      <Img fluid={data.imageOne.childImageSharp.fluid} />
   </Layout>
 )
 
 export const query = graphql`
   query {
+    imageOne: file(relativePath: { eq: "images/IMG_9906.jpg" }) {
+      childImageSharp {
+        fluid(maxWidth: 1000) {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {
