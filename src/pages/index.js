@@ -6,7 +6,7 @@ import Layout from '../components/layout'
 import SEO from '../components/seo'
 
 
-require('../styles/main.scss')
+require('./pages.scss')
 
 const keywords = ['adventure', 'blog', 'kayak', 'whitewater', 'trail', 'running', 'stories', 'van', 'sking'];
 export default ({data}) => (
