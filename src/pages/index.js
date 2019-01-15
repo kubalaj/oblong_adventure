@@ -20,12 +20,12 @@ export default ({data}) => (
               <div className="col">
                 <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
               </div>
-              <div className="col">
+              <div className="col content">
                 <Link to={node.fields.slug}>
                   <h3>
-                    {node.frontmatter.title}{": "}
+                    {node.frontmatter.title}
                     <br />
-                    <span>
+                    <span className="date">
                     {node.frontmatter.date}
                     </span>
                   </h3>
