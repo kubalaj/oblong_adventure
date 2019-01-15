@@ -23,24 +23,17 @@ export default ({data}) => (
                   — {node.frontmatter.date}
                 </span>
               </h3>
+              <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
               <p>{node.excerpt}</p>
             </Link>
           </div>
         ))}
       </div>
-      <Img fluid={data.imageOne.childImageSharp.fluid} />
   </Layout>
 )
 
 export const query = graphql`
   query {
-    imageOne: file(relativePath: { eq: "images/IMG_9906.jpg" }) {
-      childImageSharp {
-        fluid(maxWidth: 1000) {
-          ...GatsbyImageSharpFluid
-        }
-      }
-    }
     allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
       totalCount
       edges {
@@ -49,6 +42,13 @@ export const query = graphql`
           frontmatter {
             title
             date(formatString: "DD MMMM, YYYY")
+            featuredImage {
+                childImageSharp{
+                    sizes(maxWidth: 630) {
+                        ...GatsbyImageSharpSizes
+                    }
+                }
+            }
           }
           fields {
             slug
