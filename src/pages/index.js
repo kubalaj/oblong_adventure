@@ -14,26 +14,25 @@ export default ({data}) => (
     <Layout>
       <SEO title="Home" keywords={keywords} />
       <div>
-          <h2 className="latest-stories">Latest Stories</h2>
-            {data.allMarkdownRemark.edges.map(({ node }) => (
-              <div className="post" key={node.id}>
-              <div className="col">
-                <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
+        {data.allMarkdownRemark.edges.map(({ node }) => (
+          <div className="post" key={node.id}>
+            <div className="col">
+              <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
+            </div>
+            <div className="col content">
+              <Link to={node.fields.slug}>
+                <h3>
+                  {node.frontmatter.title}
+                  <br />
+                  <span className="date">
+                  {node.frontmatter.date}
+                  </span>
+                </h3>
+                <p>{node.excerpt}</p>
+              </Link>
               </div>
-              <div className="col content">
-                <Link to={node.fields.slug}>
-                  <h3>
-                    {node.frontmatter.title}
-                    <br />
-                    <span className="date">
-                    {node.frontmatter.date}
-                    </span>
-                  </h3>
-                  <p>{node.excerpt}</p>
-                </Link>
-                </div>
-              </div>
-            ))}
+            </div>
+          ))}
         </div>
     </Layout>
   </div>
