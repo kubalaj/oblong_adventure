@@ -28,8 +28,10 @@ h1 {
   }
 }
 h2 {
-  font-family: $font-main;
-  font-size: $font-size-title-secondary;
+  font-family: $font-secondary;
+  text-transform: uppercase;
+  font-size: 48px;
+  font-weight: 900;
 }
 h3 {
   font-family: $font-secondary;
