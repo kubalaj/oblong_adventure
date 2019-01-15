@@ -1,25 +1,59 @@
 
+@import url('https://fonts.googleapis.com/css?family=Overpass');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+$font-main: 'Permanent Marker', Cursive;
+$font-secondary: 'Overpass', Sans-Serif;
+$font-size-title: 72px;
+$font-size-title-secondary: 60px;
+$font-size-heading: 36px;
+
 $color-default: #000;
 $color-secondary: #313d4b;
 $color-accent: #f5f5f5;
-@import url('https://fonts.googleapis.com/css?family=Overpass');
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
 
 
 body {
-  background-color: $color-accent;
+  // background-color: $color-accent;
 }
 h1 {
   margin: 0;
-  font-family: 'Permanent Marker', Cursive !important;
+  font-family: $font-main;
+  font-size: $font-size-title;
   a {
     color: black;
     text-decoration: none;
   }
   &:hover {
-    font-family: 'Permanent Marker', Cursive;
+    font-family: $font-main;
   }
 }
+h2 {
+  font-family: $font-main;
+  font-size: $font-size-title-secondary;
+}
+h3 {
+  font-family: $font-secondary;
+  font-size: $font-size-heading;
+}
 p, div, span {
-  font-family: 'Overpass', Sans-Serif;
+  font-family: $font-secondary;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+.content {
+  // max-width: 1024px;
+}
+.post {
+  display: flex;
+  align-items: center;
+  .col {
+    width: 50%;
+  }
+}
+
+.latest-stories {
+  text-align: center;
+  margin-top: 40px;
 }

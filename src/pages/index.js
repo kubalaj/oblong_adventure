@@ -10,26 +10,33 @@ require('../styles/main.scss')
 
 const keywords = ['adventure', 'blog', 'kayak', 'whitewater', 'trail', 'running', 'stories', 'van', 'sking'];
 export default ({data}) => (
-  <Layout>
-    <SEO title="Home" keywords={keywords} />
-    <div>
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
-        {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id}>
-            <Link to={node.fields.slug}>
-              <h3>
-                {node.frontmatter.title}{" "}
-                <span>
-                  — {node.frontmatter.date}
-                </span>
-              </h3>
-              <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
-              <p>{node.excerpt}</p>
-            </Link>
-          </div>
-        ))}
-      </div>
-  </Layout>
+  <div className="content">
+    <Layout>
+      <SEO title="Home" keywords={keywords} />
+      <div>
+          <h2 className="latest-stories">Latest Stories</h2>
+            {data.allMarkdownRemark.edges.map(({ node }) => (
+              <div className="post" key={node.id}>
+              <div className="col">
+                <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
+              </div>
+              <div className="col">
+                <Link to={node.fields.slug}>
+                  <h3>
+                    {node.frontmatter.title}{": "}
+                    <br />
+                    <span>
+                    {node.frontmatter.date}
+                    </span>
+                  </h3>
+                  <p>{node.excerpt}</p>
+                </Link>
+                </div>
+              </div>
+            ))}
+        </div>
+    </Layout>
+  </div>
 )
 
 export const query = graphql`
