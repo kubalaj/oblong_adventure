@@ -8,16 +8,21 @@ const Header = ({ siteTitle }) => (
   <div className="header">
     <div className="container">
       <h1>
-        <Link to="/">
-          {siteTitle}
-        </Link>
+        <Link to="/">{siteTitle}</Link>
       </h1>
     </div>
-    <Link to="/stories/">stories</Link>
-    <Link to="/gear/">gear</Link>
-    <Link to="/trip-reports/">trip reports</Link>
   </div>
 )
+// <div className="header">
+//   <div className="container">
+//     <h1>
+//       <Link to="/">{siteTitle}</Link>
+//     </h1>
+//   </div>
+//   <Link to="/stories/">stories</Link>
+//   <Link to="/gear/butler_gultch">gear</Link>
+//   <Link to="/trip-reports/">trip reports</Link>
+// </div>
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
