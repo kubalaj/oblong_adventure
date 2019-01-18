@@ -7,13 +7,44 @@ featuredImage: './featured-image.jpg'
 <h3>TLDR; TRIP Report and Review</h3>
 
 Technical Difficulty:
-<img src="https://i.imgur.com/BbRJqcu.png" />
-<img src="https://i.imgur.com/YG99sE7.png" />
+
+<div class="ratting-grid">
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+</div>
+
 Scenery:
+
+<div class="ratting-grid">
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+</div>
 
 Fun:
 
+<div class="ratting-grid">
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+</div>
+
 Crowd Potential:
+
+<div class="ratting-grid">
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/BbRJqcu.png" />
+  <img src="https://i.imgur.com/YG99sE7.png" />
+</div>
 
 **DEPARTURE TIME:**  
 6:32AM MST I-70 Park and Ride 29-12-18
