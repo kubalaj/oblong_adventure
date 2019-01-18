@@ -4,22 +4,57 @@ date: '2018-12-30'
 featuredImage: './featured-image.jpg'
 ---
 
-TLDR TRIP Report:
+<h3>TLDR; TRIP Report and Review</h3>
 
-STORY: On December 29th, 2018 my fresh from a Roadtrip back home I decided
+Technical Difficulty:
+Scenery:
+Fun:
+Crowd Potential:
 
-<!--topo-->
+**DEPARTURE TIME:**  
+6:32AM MST I-70 Park and Ride 29-12-18
 
-<img src='https://i.imgur.com/rc0CQFh.jpg' />
+8:00am MST Trailhead
+
+**END TRIP TIME:** 29-12-18 2:30PM MST Trailhead
+
+**WEATHER:** Sunny, no clouds. Cold at -8F very windy 20mph+ winds above tree line.
+
+**AVY REPORT:** Modertate Concerns for a presistant slab at all three zones of skiing (Above, Near and Below treeline) for aspects that were North, Northeast, East, Southeast, and South.
+
+**PLAN:** The party of three: one Alpine touring skiier, one Telemark skiier and one Splitboard rider where going to tour along the trail and go to skiiers right just above treeline and then ski in the trees. After one run there the party would tour across
+
+** SAFETY GEAR:**
+
+- **Telemark Skiier** repair kit, beacon probe, shovel, airbag, Garmen InReach S.O.S. Device.
+- **Splitboarder** had repair equipment, beacon, probe, shovel, snow study kit, and walkie talkie.
+- **A.T. skiier** had beacon, probe, shovel, repair equipment, and walkie talkie.
+
+<div class="topo-map">
+  <img src='https://i.imgur.com/rc0CQFh.jpg' />
+</div>
+
+<h3>Description:</h3>
+Just a short hour drive from Denver, Butler Gultch provides low angles, spectacular views and access to a large variety of beginner terrian. Everything from tree skiing, to wide open Gultches Butler Gultch should be on everyones list for beginner backcountry terrian.
+
+On December 29th, 2018 my fresh from a Roadtrip back home, back to where my love for the adventures all started, Colorado.
+
+It doesn't take long around the holidays for the beacon of friends to suggest different trips. When my friend Harry and Andrew suggested Butler Gultch my expectations were low and the rewards where high. It reminded me of many of the classic ski decents in Rocky Mountain National Park. To get there:
+
+- Take I-70W to exit 232
+- Take US-40W to Henderson Mine Rd. If you take the first turn going up Berthod Pass you missed the road.
+
 <!--Landscape-->
-<div class='pixels-photo'>
-  <p>
+<div class='picture-container'>
     <img src='https://drscdn.500px.org/photo/290925955/m%3D900/v2?user_id=9643357&webp=true&sig=f0deee3850720832e5a629b6fa5683fbd23fd08d11754aaa0700bc246c68fb24' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'>
-  </p>
   <a href='https://500px.com/photo/290925955/butler-gultch-landscape-by-paul-kubala' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'></a>
 </div>
 
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
+We started the day with -8 degree temperatures and a skin accompanied with a crowd of snowmobliers, cross country skiiers, and other backcountry skiiers. The cold temps most likely kept most of the people out for the day, but there were still maybe 20 or so people there.
+
+Skinning up there wasn't too much of a slog for the reward that you get. Considering I was the slowest coming from a combination of sea level and a stressful desk job, it took maybe 1-2 hours to get to the top.
+
+We spend the first run as shown on the map skiing a treed aspect with deep powder. It was steep enough that it adds enjoyment and the trees where spread out enough it made for prime tree skiing. Getting fresh untracked tracks doesn't hurt either.
 
 <!--Harry Frozen-->
 <div class='pixels-photo'>
@@ -28,18 +63,6 @@ STORY: On December 29th, 2018 my fresh from a Roadtrip back home I decided
   </p>
   <a href='https://500px.com/photo/290926655/cold-by-paul-kubala' alt='Cold by Paul Kubala on 500px.com'></a>
 </div>
-
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
-<!--Harry Touring Up-->
-<div class='pixels-photo'>
-  <p>
-    <img src='https://drscdn.500px.org/photo/290926027/m%3D900/v2?user_id=9643357&webp=true&sig=184b01fb23a1fc553217d84d15ab86e94e47da8d024c018bf880f21ef2b5290d' alt='Harry Touring Up by Paul Kubala on 500px.com'>
-  </p>
-  <a href='https://500px.com/photo/290926027/harry-touring-up-by-paul-kubala' alt='Harry Touring Up by Paul Kubala on 500px.com'></a>
-</div>
-
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
 
 <!--Andrew and Harry Looking up-->
 <div class='pixels-photo'>
@@ -51,6 +74,8 @@ STORY: On December 29th, 2018 my fresh from a Roadtrip back home I decided
 
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
+After one tree run we skinned up and made out way over to the bowls on skinners right. Here we were apporached with more incredible views as well as almost hurricane forced winds. In each gully you tour over expect the possiblity of high winds as well as a slight chance of avalanche danger. After an even colder skin up, we stopped at the topish of one of these gullies and skiied down. Untracked 6-8inches of snow meant with sunny days were an incredible treat and make conservative days worth doing. After untreed skis you descend into more trees of similar characteristics as the run before. Just make sure to hang skiier's right to hook up with the skin trail and ski down.
+
 <!--Andrew Touring Up-->
 
 <div class='pixels-photo'>
@@ -61,7 +86,12 @@ STORY: On December 29th, 2018 my fresh from a Roadtrip back home I decided
 </div>
 
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
-
+<div class='pixels-photo'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/290926027/m%3D900/v2?user_id=9643357&webp=true&sig=184b01fb23a1fc553217d84d15ab86e94e47da8d024c018bf880f21ef2b5290d' alt='Harry Touring Up by Paul Kubala on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/290926027/harry-touring-up-by-paul-kubala' alt='Harry Touring Up by Paul Kubala on 500px.com'></a>
+</div>
 <!--Andrew Skiing Down-->
 <div class='pixels-photo'>
   <p>
@@ -80,3 +110,5 @@ STORY: On December 29th, 2018 my fresh from a Roadtrip back home I decided
   </p>
   <a href='https://500px.com/photo/290926675/harry-snowboarding-down-by-paul-kubala' alt='Harry Snowboarding Down by Paul Kubala on 500px.com'></a>
 </div>
+
+Butler's Gultch is a treat that everyone trying to get into backcountry should consider. It offers tons of conservative options with high rewards. If you can mind the crowds and traffic expect spectacular days.
