@@ -7,8 +7,12 @@ featuredImage: './featured-image.jpg'
 <h3>TLDR; TRIP Report and Review</h3>
 
 Technical Difficulty:
+<img src="https://i.imgur.com/BbRJqcu.png" />
+<img src="https://i.imgur.com/YG99sE7.png" />
 Scenery:
+
 Fun:
+
 Crowd Potential:
 
 **DEPARTURE TIME:**  
