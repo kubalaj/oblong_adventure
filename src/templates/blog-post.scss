@@ -3,7 +3,10 @@
   margin: auto;
 }
 .picture-container {
-  margin: auto;
+  img {
+    display: block;
+    margin: 60px auto;
+  }
 }
 .ratting-grid {
   img {

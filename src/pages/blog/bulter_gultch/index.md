@@ -92,7 +92,7 @@ Skinning up there wasn't too much of a slog for the reward that you get. Conside
 We spend the first run as shown on the map skiing a treed aspect with deep powder. It was steep enough that it adds enjoyment and the trees were spread out enough it made for prime tree skiing. Getting fresh untracked tracks doesn't hurt either.
 
 <!--Harry Frozen-->
-<div class='pixels-photo'>
+<div class='picture-container'>
   <p>
     <img src='https://drscdn.500px.org/photo/290926655/m%3D900/v2?user_id=9643357&webp=true&sig=dea7394d679e7c99750ec5d6fcc23f69f0a13db23e6a1d6a8efa62dd8a5aa9ca' alt='Cold by Paul Kubala on 500px.com'>
   </p>
@@ -100,46 +100,34 @@ We spend the first run as shown on the map skiing a treed aspect with deep powde
 </div>
 
 <!--Andrew and Harry Looking up-->
-<div class='pixels-photo'>
+<div class='picture-container'>
   <p>
     <img src='https://drscdn.500px.org/photo/290926007/m%3D900/v2?user_id=9643357&webp=true&sig=15f2253b28211c61bca89937e7e4dfb5f92719a19bec1b6f26efb69871a7a605' alt='Andrew and Harry Looking up by Paul Kubala on 500px.com'>
   </p>
   <a href='https://500px.com/photo/290926007/andrew-and-harry-looking-up-by-paul-kubala' alt='Andrew and Harry Looking up by Paul Kubala on 500px.com'></a>
 </div>
 
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
 After one tree run we skinned up and made out way over to the bowls on skinners right. Here we were approached with more incredible views as well as almost hurricane force winds. In each gully you tour over expect the possibility of high winds as well as a slight chance of avalanche danger. After an even colder skin up, we stopped at the topish of one of these gullies and skied down. Untracked 6-8 inches of snow meant with sunny days were an incredible treat and make conservative days worth doing. After untreed skis you descend into more trees of similar characteristics as the run before. Just make sure to hang skier's right to hook up with the skin trail and ski down.
 
-<!--Andrew Touring Up-->
-
-<div class='pixels-photo'>
+<div class='picture-container'>
   <p>
     <img src='https://drscdn.500px.org/photo/290926023/m%3D900/v2?user_id=9643357&webp=true&sig=ef818861d0c1823c960ef4554a2ef7a1a8d0ad46f922961efa822cbb3eb79695' alt='Andrew Touring by Paul Kubala on 500px.com'>
   </p>
   <a href='https://500px.com/photo/290926023/andrew-touring-by-paul-kubala' alt='Andrew Touring by Paul Kubala on 500px.com'></a>
 </div>
-
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-<div class='pixels-photo'>
+<div class='picture-container'>
   <p>
     <img src='https://drscdn.500px.org/photo/290926027/m%3D900/v2?user_id=9643357&webp=true&sig=184b01fb23a1fc553217d84d15ab86e94e47da8d024c018bf880f21ef2b5290d' alt='Harry Touring Up by Paul Kubala on 500px.com'>
   </p>
   <a href='https://500px.com/photo/290926027/harry-touring-up-by-paul-kubala' alt='Harry Touring Up by Paul Kubala on 500px.com'></a>
 </div>
-<!--Andrew Skiing Down-->
-<div class='pixels-photo'>
+<div class='picture-container'>
   <p>
     <img src='https://drscdn.500px.org/photo/290925913/m%3D900/v2?user_id=9643357&webp=true&sig=a45cde97cc45e71be16314bcc2a99c2e7b1381c199021257128e67b7f05bfecf' alt='Andrew Skiing Butler Gultch Gully by Paul Kubala on 500px.com'>
   </p>
   <a href='https://500px.com/photo/290925913/andrew-skiing-butler-gultch-gully-by-paul-kubala' alt='Andrew Skiing Butler Gultch Gully by Paul Kubala on 500px.com'></a>
 </div>
-
-<script type='text/javascript' src='https://500px.com/embed.js'></script>
-
-<!--Harry boarding Down-->
-
-<div class='pixels-photo'>
+<div class='picture-container'>
   <p>
     <img src='https://drscdn.500px.org/photo/290926675/m%3D900/v2?user_id=9643357&webp=true&sig=9d46a61be0a009782a30dc1c1fd69e6261aa5f85304a44e356a2f1e88fb81837' alt='Harry Snowboarding Down by Paul Kubala on 500px.com'>
   </p>
