@@ -1,3 +1,6 @@
+.post-title {
+  margin-top: 60px;
+}
 .topo-map {
   max-width: 500px;
   margin: auto;
@@ -9,7 +12,14 @@
   }
 }
 .ratting-grid {
+  display: flex;
   img {
-    max-width: 40px;
+    max-width: 20px;
+  }
+  .col {
+    max-width: 50%;
+    &:nth-child(2) {
+      margin-left: 15px;
+    }
   }
 }

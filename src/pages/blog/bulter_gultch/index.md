@@ -4,46 +4,57 @@ date: '2018-12-30'
 featuredImage: './featured-image.jpg'
 ---
 
-<h3>TLDR; TRIP Report and Review</h3>
-
-Technical Difficulty:
-
+<h4>TLDR TRIP Report and Review</h4>
 <div class="ratting-grid">
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
+  <div class="col">
+    Technical Difficulty:
+  </div>
+  <div class="col">
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+  </div>
 </div>
 
-Scenery:
-
 <div class="ratting-grid">
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
+  <div class="col">
+  Scenery:
+  </div>
+  <div class="col">
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+  </div>
 </div>
 
-Fun:
-
 <div class="ratting-grid">
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
+  <div class="col">
+    Fun:
+  </div>
+  <div class="col">
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+  </div>
 </div>
 
-Crowd Potential:
-
 <div class="ratting-grid">
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/BbRJqcu.png" />
-  <img src="https://i.imgur.com/YG99sE7.png" />
+  <div class="col">
+  Crowd Potential:
+  </div>
+  <div class="col">
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/BbRJqcu.png" />
+    <img src="https://i.imgur.com/YG99sE7.png" />
+  </div>
 </div>
 
 **DEPARTURE TIME:**  
