@@ -1,8 +1,11 @@
+@import '../styles/main.scss';
 h2 {
+  font-family: $font-main;
   text-align: center;
 }
 .post-title {
-  margin-top: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 .topo-map {
   max-width: 500px;
@@ -12,6 +15,11 @@ h2 {
   img {
     display: block;
     margin: 60px auto;
+  }
+}
+.cover {
+  img {
+    margin-top: 0;
   }
 }
 .ratting-grid {

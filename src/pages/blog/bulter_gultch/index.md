@@ -4,6 +4,12 @@ date: '2018-12-30'
 featuredImage: './featured-image.jpg'
 ---
 
+<!--Landscape-->
+<div class='picture-container cover'>
+    <img src='https://drscdn.500px.org/photo/290925955/m%3D900/v2?user_id=9643357&webp=true&sig=f0deee3850720832e5a629b6fa5683fbd23fd08d11754aaa0700bc246c68fb24' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'>
+  <a href='https://500px.com/photo/290925955/butler-gultch-landscape-by-paul-kubala' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'></a>
+</div>
+
 <h3>TLDR TRIP Report and Review</h3>
 
 <div class="ratting-grid">
@@ -112,12 +118,6 @@ It doesn't take long around the holidays for the beacon of friends to suggest di
 
 - Take I-70W to exit 232
 - Take US-40W to Henderson Mine Rd. If you take the first turn going up Berthoud Pass you missed the road.
-
-<!--Landscape-->
-<div class='picture-container'>
-    <img src='https://drscdn.500px.org/photo/290925955/m%3D900/v2?user_id=9643357&webp=true&sig=f0deee3850720832e5a629b6fa5683fbd23fd08d11754aaa0700bc246c68fb24' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'>
-  <a href='https://500px.com/photo/290925955/butler-gultch-landscape-by-paul-kubala' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'></a>
-</div>
 
 We started the day with -8 degree temperatures and a skin accompanied with a crowd of snowmobilers, cross country skiers, and other backcountry skiers. The cold temps most likely kept most of the people out for the day, but there were still maybe 20 or so people there.
 
