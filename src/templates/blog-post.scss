@@ -1,5 +1,8 @@
+h2 {
+  text-align: center;
+}
 .post-title {
-  margin-top: 60px;
+  margin-top: 40px;
 }
 .topo-map {
   max-width: 500px;
@@ -15,11 +18,18 @@
   display: flex;
   img {
     max-width: 20px;
+    margin-bottom: 5px;
   }
   .col {
     max-width: 50%;
     &:nth-child(2) {
       margin-left: 15px;
     }
+  }
+}
+.chunk {
+  margin: 15px 0;
+  p {
+    margin: 0;
   }
 }

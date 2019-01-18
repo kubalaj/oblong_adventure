@@ -4,7 +4,8 @@ date: '2018-12-30'
 featuredImage: './featured-image.jpg'
 ---
 
-<h4>TLDR TRIP Report and Review</h4>
+<h3>TLDR TRIP Report and Review</h3>
+
 <div class="ratting-grid">
   <div class="col">
     Technical Difficulty:
@@ -57,30 +58,52 @@ featuredImage: './featured-image.jpg'
   </div>
 </div>
 
+<div class="chunk">
+
 **DEPARTURE TIME:**  
 6:32AM MST I-70 Park and Ride 29-12-18
 
 8:00AM MST Trailhead
 
-**END TRIP TIME:** 29-12-18 2:30PM MST Trailhead
+</div>
+
+<div class="chunk">
+
+**END TRIP TIME:**
+
+29-12-18 2:30PM MST Trailhead
+
+</div>
+<div class="chunk">
 
 **WEATHER:** Sunny, no clouds. Cold at -8F very windy 20 mph + winds above tree line.
 
+</div>
+
+<div class="chunk">
+
 **AVY REPORT:** Moderate Concerns for a persistent slab at all three zones of skiing (Above, Near and Below treeline) for aspects that were North, Northeast, East, Southeast, and South.
 
+</div>
+<div class="chunk">
+
 **PLAN:** The party of three: one Alpine touring skier, one Telemark skier and one Splitboard rider where going to tour along the trail and go to skiers right just above treeline and then ski in the trees. After one run there the party would tour across
+
+</div>
+
+<div class="chunk">
 
 **SAFETY GEAR:**
 
 - **Telemark Skier** repair kit, beacon probe, shovel, airbag, Garmin InReach S.O.S. Device.
 - **Splitboarder** had repair equipment, beacon, probe, shovel, snow study kit, and walkie talkie.
 - **A.T. skier** had beacon, probe, shovel, repair equipment, and walkie talkie.
+  </div>
+  <div class="topo-map">
+    <img src='https://i.imgur.com/rc0CQFh.jpg' />
+  </div>
 
-<div class="topo-map">
-  <img src='https://i.imgur.com/rc0CQFh.jpg' />
-</div>
-
-<h3>Description:</h3>
+<h3>Description</h3>
 Just a short hour drive from Denver, Butler Gulch provides low angles, spectacular views and access to a large variety of beginner terrain. Everything from tree skiing, to wide open Gulches Butler Gulch should be on everyone's list for beginner backcountry terrain.
 
 On December 29th, 2018 my fresh from a Road Trip back home, back to where my love for the adventures all started, Colorado.
