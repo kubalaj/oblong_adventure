@@ -1,5 +1,5 @@
 ---
-title: 'Butler Gultch'
+title: 'Butler Gulch'
 date: '2018-12-30'
 featuredImage: './featured-image.jpg'
 ---
@@ -49,35 +49,35 @@ Crowd Potential:
 **DEPARTURE TIME:**  
 6:32AM MST I-70 Park and Ride 29-12-18
 
-8:00am MST Trailhead
+8:00AM MST Trailhead
 
 **END TRIP TIME:** 29-12-18 2:30PM MST Trailhead
 
-**WEATHER:** Sunny, no clouds. Cold at -8F very windy 20mph+ winds above tree line.
+**WEATHER:** Sunny, no clouds. Cold at -8F very windy 20 mph + winds above tree line.
 
-**AVY REPORT:** Modertate Concerns for a presistant slab at all three zones of skiing (Above, Near and Below treeline) for aspects that were North, Northeast, East, Southeast, and South.
+**AVY REPORT:** Moderate Concerns for a persistent slab at all three zones of skiing (Above, Near and Below treeline) for aspects that were North, Northeast, East, Southeast, and South.
 
-**PLAN:** The party of three: one Alpine touring skiier, one Telemark skiier and one Splitboard rider where going to tour along the trail and go to skiiers right just above treeline and then ski in the trees. After one run there the party would tour across
+**PLAN:** The party of three: one Alpine touring skier, one Telemark skier and one Splitboard rider where going to tour along the trail and go to skiers right just above treeline and then ski in the trees. After one run there the party would tour across
 
-** SAFETY GEAR:**
+**SAFETY GEAR:**
 
-- **Telemark Skiier** repair kit, beacon probe, shovel, airbag, Garmen InReach S.O.S. Device.
+- **Telemark Skier** repair kit, beacon probe, shovel, airbag, Garmin InReach S.O.S. Device.
 - **Splitboarder** had repair equipment, beacon, probe, shovel, snow study kit, and walkie talkie.
-- **A.T. skiier** had beacon, probe, shovel, repair equipment, and walkie talkie.
+- **A.T. skier** had beacon, probe, shovel, repair equipment, and walkie talkie.
 
 <div class="topo-map">
   <img src='https://i.imgur.com/rc0CQFh.jpg' />
 </div>
 
 <h3>Description:</h3>
-Just a short hour drive from Denver, Butler Gultch provides low angles, spectacular views and access to a large variety of beginner terrian. Everything from tree skiing, to wide open Gultches Butler Gultch should be on everyones list for beginner backcountry terrian.
+Just a short hour drive from Denver, Butler Gulch provides low angles, spectacular views and access to a large variety of beginner terrain. Everything from tree skiing, to wide open Gulches Butler Gulch should be on everyone's list for beginner backcountry terrain.
 
-On December 29th, 2018 my fresh from a Roadtrip back home, back to where my love for the adventures all started, Colorado.
+On December 29th, 2018 my fresh from a Road Trip back home, back to where my love for the adventures all started, Colorado.
 
-It doesn't take long around the holidays for the beacon of friends to suggest different trips. When my friend Harry and Andrew suggested Butler Gultch my expectations were low and the rewards where high. It reminded me of many of the classic ski decents in Rocky Mountain National Park. To get there:
+It doesn't take long around the holidays for the beacon of friends to suggest different trips. When my friend Harry and Andrew suggested Butler Gulch my expectations were low and the rewards where high. It reminded me of many of the classic ski descents in Rocky Mountain National Park. To get there:
 
 - Take I-70W to exit 232
-- Take US-40W to Henderson Mine Rd. If you take the first turn going up Berthod Pass you missed the road.
+- Take US-40W to Henderson Mine Rd. If you take the first turn going up Berthoud Pass you missed the road.
 
 <!--Landscape-->
 <div class='picture-container'>
@@ -85,11 +85,11 @@ It doesn't take long around the holidays for the beacon of friends to suggest di
   <a href='https://500px.com/photo/290925955/butler-gultch-landscape-by-paul-kubala' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'></a>
 </div>
 
-We started the day with -8 degree temperatures and a skin accompanied with a crowd of snowmobliers, cross country skiiers, and other backcountry skiiers. The cold temps most likely kept most of the people out for the day, but there were still maybe 20 or so people there.
+We started the day with -8 degree temperatures and a skin accompanied with a crowd of snowmobilers, cross country skiers, and other backcountry skiers. The cold temps most likely kept most of the people out for the day, but there were still maybe 20 or so people there.
 
 Skinning up there wasn't too much of a slog for the reward that you get. Considering I was the slowest coming from a combination of sea level and a stressful desk job, it took maybe 1-2 hours to get to the top.
 
-We spend the first run as shown on the map skiing a treed aspect with deep powder. It was steep enough that it adds enjoyment and the trees where spread out enough it made for prime tree skiing. Getting fresh untracked tracks doesn't hurt either.
+We spend the first run as shown on the map skiing a treed aspect with deep powder. It was steep enough that it adds enjoyment and the trees were spread out enough it made for prime tree skiing. Getting fresh untracked tracks doesn't hurt either.
 
 <!--Harry Frozen-->
 <div class='pixels-photo'>
@@ -109,7 +109,7 @@ We spend the first run as shown on the map skiing a treed aspect with deep powde
 
 <script type='text/javascript' src='https://500px.com/embed.js'></script>
 
-After one tree run we skinned up and made out way over to the bowls on skinners right. Here we were apporached with more incredible views as well as almost hurricane forced winds. In each gully you tour over expect the possiblity of high winds as well as a slight chance of avalanche danger. After an even colder skin up, we stopped at the topish of one of these gullies and skiied down. Untracked 6-8inches of snow meant with sunny days were an incredible treat and make conservative days worth doing. After untreed skis you descend into more trees of similar characteristics as the run before. Just make sure to hang skiier's right to hook up with the skin trail and ski down.
+After one tree run we skinned up and made out way over to the bowls on skinners right. Here we were approached with more incredible views as well as almost hurricane force winds. In each gully you tour over expect the possibility of high winds as well as a slight chance of avalanche danger. After an even colder skin up, we stopped at the topish of one of these gullies and skied down. Untracked 6-8 inches of snow meant with sunny days were an incredible treat and make conservative days worth doing. After untreed skis you descend into more trees of similar characteristics as the run before. Just make sure to hang skier's right to hook up with the skin trail and ski down.
 
 <!--Andrew Touring Up-->
 
@@ -146,4 +146,4 @@ After one tree run we skinned up and made out way over to the bowls on skinners 
   <a href='https://500px.com/photo/290926675/harry-snowboarding-down-by-paul-kubala' alt='Harry Snowboarding Down by Paul Kubala on 500px.com'></a>
 </div>
 
-Butler's Gultch is a treat that everyone trying to get into backcountry should consider. It offers tons of conservative options with high rewards. If you can mind the crowds and traffic expect spectacular days.
+Butler's Gulch is a treat that everyone trying to get into backcountry should consider. It offers tons of conservative options with high rewards. If you can mind the crowds and traffic expect spectacular days.
