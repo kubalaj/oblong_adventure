@@ -1,0 +1,43 @@
+@import '../styles/main.scss';
+h2 {
+  font-family: $font-main;
+  text-align: center;
+}
+.post-title {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.topo-map {
+  max-width: 500px;
+  margin: auto;
+}
+.picture-container {
+  img {
+    display: block;
+    margin: 60px auto;
+  }
+}
+.cover {
+  img {
+    margin-top: 0;
+  }
+}
+.ratting-grid {
+  display: flex;
+  img {
+    max-width: 20px;
+    margin-bottom: 5px;
+  }
+  .col {
+    max-width: 50%;
+    &:nth-child(2) {
+      margin-left: 15px;
+    }
+  }
+}
+.chunk {
+  margin: 15px 0;
+  p {
+    margin: 0;
+  }
+}
