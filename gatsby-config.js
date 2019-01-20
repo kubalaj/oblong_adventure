@@ -6,9 +6,6 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-remark-relative-images`,
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: ['gatsby-remark-copy-linked-files'],
