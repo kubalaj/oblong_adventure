@@ -67,9 +67,9 @@ featuredImage: './featured-image.jpg'
 <div class="chunk">
 
 **DEPARTURE TIME:**  
-6:32AM MST I-70 Park and Ride 29-12-18
+12-19-19 06:32 MST I-70 Park and Ride
 
-8:00AM MST Trailhead
+08:00 MST Trailhead
 
 </div>
 
@@ -77,18 +77,18 @@ featuredImage: './featured-image.jpg'
 
 **END TRIP TIME:**
 
-29-12-18 2:30PM MST Trailhead
+29-12-18 14:30 MST Trailhead
 
 </div>
 <div class="chunk">
 
-**WEATHER:** Sunny, no clouds. Cold at -8F very windy 20 mph + winds above tree line.
+**WEATHER:** Sunny, no clouds. Cold at -8F very windy at 20 mph+ winds above tree line.
 
 </div>
 
 <div class="chunk">
 
-**AVY REPORT:** Moderate Concerns for a persistent slab at all three zones of skiing (Above, Near and Below treeline) for aspects that were North, Northeast, East, Southeast, and South.
+**AVY REPORT:** Moderate Concerns for a persistent slab at all three zones of skiing (above, bear, and below tree line) for North, Northeast, East, Southeast, and South aspects.
 
 </div>
 <div class="chunk">
