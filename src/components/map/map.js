@@ -1,35 +1,7 @@
-import { Link } from 'gatsby'
-import PropTypes from 'prop-types'
 import React from 'react'
 
-import './header.scss'
+import './map.scss'
 
-const Header = ({ siteTitle }) => (
-  <div className="header">
-    <div className="container">
-      <h1>
-        <Link to="/">{siteTitle}</Link>
-      </h1>
-    </div>
-  </div>
-)
-// <div className="header">
-//   <div className="container">
-//     <h1>
-//       <Link to="/">{siteTitle}</Link>
-//     </h1>
-//   </div>
-//   <Link to="/stories/">stories</Link>
-//   <Link to="/gear/butler_gultch">gear</Link>
-//   <Link to="/trip-reports/">trip reports</Link>
-// </div>
+const Map = () => <div>I am a map</div>
 
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: '',
-}
-
-export default Header
+export default Map
