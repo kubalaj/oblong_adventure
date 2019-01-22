@@ -6,7 +6,11 @@ import './map.scss'
 class Map extends Component {
   constructor() {
     super()
-    console.log('test')
+    this.test()
+  }
+
+  test() {
+    console.log('tests')
   }
 
   render() {
