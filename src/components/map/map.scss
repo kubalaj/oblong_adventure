@@ -1,0 +1,24 @@
+@import './src/styles/main';
+
+.header {
+  margin-bottom: '1.45rem';
+  text-align: center;
+  color: $color-default;
+  .container {
+    margin: 0 auto;
+    padding: 1.45rem 1.0875rem;
+  }
+  h1 {
+    margin: 0;
+    font-family: 'Permanent Marker', Cursive;
+    font-size: 90px;
+  }
+  a {
+    color: $color-default;
+    text-decoration: none;
+    padding: 10px;
+    &:hover {
+      color: $color-secondary;
+    }
+  }
+}
