@@ -11,6 +11,9 @@ featuredImage: './featured-image.jpg'
 </div>
 
 <h3>TLDR TRIP Report and Review</h3>
+<div class="3d-map">
+   <img src="https://i.imgur.com/UqWY5CH.png" title="source: imgur.com" />
+</div>
 
 <div class="ratting-grid">
  <div class="col">
@@ -104,10 +107,10 @@ featuredImage: './featured-image.jpg'
 - **Telemark Skier** misc. repair kit, beacon, probe, shovel, airbag, Garmin InReach S.O.S. Device.
 - **Splitboarder** misc. repair equipment, beacon, probe, shovel, snow study kit, and walkie talkie.
 - **A.T. skier** beacon, probe, shovel, misc.repair equipment, and walkie talkie.
-  </div>
-  <div class="topo-map">
-    <img src='https://i.imgur.com/rc0CQFh.jpg' />
-  </div>
+    </div>
+    <div class="topo-map">
+      <img src='https://i.imgur.com/rc0CQFh.jpg' />
+    </div>
 
 <h3>Description</h3>
 Just a short one hour drive from Denver, Butler Gulch provides low angles, spectacular views, and access to a large variety of beginner backcountry terrain. Everything from tree skiing, to wide open Gulches, Butler Gulch should be on everyone's list for beginner terrain.
