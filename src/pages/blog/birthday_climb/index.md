@@ -1,19 +1,46 @@
 ---
-title: 'Birthday Cli,b'
-date: '2016-08-03'
+title: 'Super Dooper Short: Birthday Climb'
+date: '2016-03-19'
 featuredImage: './featured-image.jpg'
 ---
 
 <!--Landscape-->
+<p>The video below is the first video of the blog's new series: Super Dooper Shorts. I spend so much time shooting bits of video that aren't long enough to turn into a stand alone movie. This series is an attempt to give those clips a new home and provide more than just photographs to the stories of the outside. Here it is the first video of the series: Birthday Climb.</p>
 <div class='picture-container cover'>
-   <img src='https://drscdn.500px.org/photo/290925955/m%3D900/v2?user_id=9643357&webp=true&sig=f0deee3850720832e5a629b6fa5683fbd23fd08d11754aaa0700bc246c68fb24' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'>
- <a href='https://500px.com/photo/290925955/butler-gultch-landscape-by-paul-kubala' alt='Butler Gultch Landscape by Paul Kubala on 500px.com'></a>
+<iframe src="https://player.vimeo.com/video/324462126" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
+<p>On August 3rd, 2016, I turned 26. On my endless quest to climb all of the peaks over 14,000 feet in Colorado, also referred to as 14ers, I decided to try to bag a 14er on my Birthday. My birthday is in some of the prime climbing season in Colorado, but with work, life, and family gatherings on my special day, it's hard to carve out time just for me and my adventure schedule. So I decided to take on the challenge of bag a peak, come into work, and hangout and celebrate with the friends all on my Birthday.</p>
+
+<p>I choose what is arguably the easiest and most popular 14er for this challenge, Bierstadt. The trail for Bierstadt is only about 5 miles round trip and about an hour and half away from Denver making it the perfect peak, both for its difficulty and proximity from work. Hiking up the 14ers can be a serious drag when the trail is littered with people. Although I don't want to promote some sort of weird self-entitlement when it comes to getting outside, the experience of hiking a 14er is way more fun when there are less people. I figured not only did this 14er give me the best odds of completing my goal, but it was maybe the best way of hiking the peak itself. I would be hiking in the middle of the week, super early in the morning, giving me the highest odds of having an uncluttered trail.</p>
+
+<p> I drove up the night before and slept in my car at the trailhead. As my alarm went off at 4:00am, and then again at 5:00am, and then finally at 5:15am; I began to wake up and climb out of the coziness of my sleeping bag. It was cold, wet, and best of all quiet at the trailhead. I didn't see a single soul on the run up that morning, accomplishing my goal of solitude on one of the busiest peaks in the state. As I ran up, my legs got soaked from the morning dew of the bushes as I trotted up the peak. At the summit the clouds and empty sky danced together, like two lovers engaging in an intimate tango. I was one of the first 3 people on the summit that day and at 7:30am and had accomplished my goal. As I ran down, smile running from ear to ear I bumped into maybe 20 or so parties climbing up, validating my decision making of this summit. With each passerby, my excitement of what I had done may have slipped out, but you know what, it felt like I had just accomplished more than just bagging another peak. I added unordinary to the adventure and made it more Oblong. So my fellow Oblongers when you are trying to do something on your outdoorsy bucket list, it's worth trying to make things more fun. Think about how can you make the mundane of how you approach the simple problems different and try to challenge yourself. This will be one of the easiest accents on my list 14er bucket list, but will also be one of the ones I remember the most.</p>
+
+<p>A trip report of trail run is located at the bottom of the blog.</p>
+<div class='picture-container'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/222584957/m%3D900/v2?user_id=9643357&webp=true&sig=3a0ceee99ed0d8fdc7d6b1ef02ffb518140908030b861d29ef6067092613d395' alt='Base of BierStadt by Paul Kubala on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/222584957/base-of-bierstadt-by-paul-kubala' alt='Base of BierStadt by Paul Kubala on 500px.com'></a>
+</div>
+
+<div class='picture-container'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/222584937/m%3D900/v2?user_id=9643357&webp=true&sig=0409483796b100dc10f67cde15fe61d07a2abe76217b074d257b8eeb607888b7' alt='Sunrise at the Ridge of Bierstadt by Paul Kubala on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/222584937/sunrise-at-the-ridge-of-bierstadt-by-paul-kubala' alt='Sunrise at the Ridge of Bierstadt by Paul Kubala on 500px.com'></a>
+</div>
+<div class='picture-container'>
+  <p>
+    <img src='https://drscdn.500px.org/photo/222584935/m%3D900/v2?user_id=9643357&webp=true&sig=10fec4f1e4f41a6884f75d9d854d2fb9a183a729844a9971257ddec157be8fb5' alt='Standing in Awe, Bierstadt by Paul Kubala on 500px.com'>
+  </p>
+  <a href='https://500px.com/photo/222584935/standing-in-awe-bierstadt-by-paul-kubala' alt='Standing in Awe, Bierstadt by Paul Kubala on 500px.com'></a>
 </div>
 
 <h3>TLDR TRIP Report and Review</h3>
-<div class="3d-map">
-   <img src="https://i.imgur.com/UqWY5CH.png" title="source: imgur.com" />
-</div>
+    <div class="topo-map-horizontal">
+      <img src="https://i.imgur.com/VpLXRAa.jpg" title="source: imgur.com" />
+    </div>
 
 <div class="ratting-grid">
  <div class="col">
@@ -50,7 +77,7 @@ featuredImage: './featured-image.jpg'
    <img src="https://i.imgur.com/BbRJqcu.png" />
    <img src="https://i.imgur.com/BbRJqcu.png" />
    <img src="https://i.imgur.com/BbRJqcu.png" />
-   <img src="https://i.imgur.com/YG99sE7.png" />
+   <img src="https://i.imgur.com/BbRJqcu.png" />
  </div>
 </div>
 
@@ -63,16 +90,18 @@ featuredImage: './featured-image.jpg'
    <img src="https://i.imgur.com/BbRJqcu.png" />
    <img src="https://i.imgur.com/BbRJqcu.png" />
    <img src="https://i.imgur.com/BbRJqcu.png" />
-   <img src="https://i.imgur.com/YG99sE7.png" />
+   <img src="https://i.imgur.com/BbRJqcu.png" />
  </div>
 </div>
 
 <div class="chunk">
 
 **DEPARTURE TIME:**  
-12-19-19 06:32 MST I-70 Park and Ride
+08-02-16 20:00 MST Downtown Denver
 
-08:00 MST Trailhead
+08-03-16 00:00 MST Trailhead Parking Lot
+
+08-03-16 05:20 MST Began Trail Run
 
 </div>
 
@@ -80,23 +109,18 @@ featuredImage: './featured-image.jpg'
 
 **END TRIP TIME:**
 
-29-12-18 14:30 MST Trailhead
+08-03-16 08:35 MST Trailhead
 
 </div>
 <div class="chunk">
 
-**WEATHER:** Sunny, no clouds. Cold at -8F, very windy at 20 mph+, winds only above tree line.
+**WEATHER:** Partly Sunny. Cold for summer at temps around 35F, wet ground, snow, and lightning potential around summit of peak.
 
 </div>
 
 <div class="chunk">
 
-**AVY REPORT:** Moderate Concerns for a persistent slab at all three zones of skiing (above, near, and below tree line) for North, Northeast, East, Southeast, and South aspects.
-
-</div>
-<div class="chunk">
-
-**PLAN:** The party of three: one Alpine Touring skier, one Telemark skier and one Splitboarder where to tour along the standard Butler Gulch trail for multiple laps. The first lap would go to skiers right just above tree line and then ski in the trees as marked on the trail map below. After one run there, the party would follow the trail marked on the map towards skier's left to ski the open gulches.
+**PLAN:** One male would plan on running the length of the standard Bierstadt Mountain Trail. The individual will try to run to the top of Mount Bierstadt before 9am. Will turn around if weather gets bad or does not reach the summit by 9am.
 
 </div>
 
@@ -104,73 +128,15 @@ featuredImage: './featured-image.jpg'
 
 **SAFETY GEAR:**
 
-- **Telemark Skier** misc. repair kit, beacon, probe, shovel, airbag, Garmin InReach S.O.S. Device.
-- **Splitboarder** misc. repair equipment, beacon, probe, shovel, snow study kit, and walkie talkie.
-- **A.T. skier** beacon, probe, shovel, misc.repair equipment, and walkie talkie.
-    </div>
-    <div class="topo-map">
-      <img src='https://i.imgur.com/rc0CQFh.jpg' />
+- Cell Phone.
+- Headlamp.
     </div>
 
-<h3>Description</h3>
-Just a short one hour drive from Denver, Butler Gulch provides low angles, spectacular views, and access to a large variety of beginner backcountry terrain. Everything from tree skiing, to wide open Gulches, Butler Gulch should be on everyone's list for beginner terrain.
+I followed all the direction on [14ers.com](https://www.14ers.com/route.php?route=evan2&peak=Evans+and+Bierstadt). This website is an invaluable resource if you did not know about it. It has everything from pictures and route descriptions to a forum to meet new hikers and climbers. I followed this post exactly on directions and information. I would just follow it when planning an accent.
 
-On December 29th, 2018, fresh from a road trip back home to Colorado, I was flooded with a influx of texts to go on a variety of touring trips. The state had been hit with an usual amount of early season snow and it doesn't take long around the holidays for the beacon of friends to lite.
+**To get there:**
 
-My friends, Harry and Andrew suggested Butler Gulch for one of my homecoming ski tour debout. My expectations were low, but the rewards given were incredibly high. Butler Gulch, reminded me of many of the classic ski descents in Rocky Mountain National Park and I couldn't help but think I was transported to somewhere unworldly. With an easy commute on top beautiful terrain what's not to like?
+Just put Bierstadt in google maps. The app will take you to the trailhead. If that doesn't work checkout the directions below, it's pretty easy to get there.
 
-To get there:
-
-- Take I-70W to exit 232
-- Take US-40W to Henderson Mine Rd. If you take the first turn going up Berthoud Pass you missed the turn.
-
-We started the day with a sweltering -8 temps and a skin accompanied with a crowd consisting of snowmobilers, cross country skiers, dogs, and other backcountry skiers. If you are looking for an uncrowded secluded tour, skip this trip. The cold temps most likely kept most of the people out for the day, but even with subzero temps there were still maybe 20 or so people there starting the day with us.
-
-Skinning up to the top of our first descent wasn't too physically demanding. Considering I was the slowest of the group, coming from a combination of sea level and a stressful desk job fitness level, it took us maybe 1-2 hours to get to the top of our first decent.
-
-We spent the first run, as shown on the map, skiing a treed aspect with deep powder on skinners left. The trees, although tight, where spread out enough that there were no issues skiing between all the trees with almost no hazards; minus tree wells.
-
-<!--Harry Frozen-->
-<div class='picture-container'>
- <p>
-   <img src='https://drscdn.500px.org/photo/290926655/m%3D900/v2?user_id=9643357&webp=true&sig=dea7394d679e7c99750ec5d6fcc23f69f0a13db23e6a1d6a8efa62dd8a5aa9ca' alt='Cold by Paul Kubala on 500px.com'>
- </p>
- <a href='https://500px.com/photo/290926655/cold-by-paul-kubala' alt='Cold by Paul Kubala on 500px.com'></a>
-</div>
-
-<!--Andrew and Harry Looking up-->
-<div class='picture-container'>
- <p>
-   <img src='https://drscdn.500px.org/photo/290926007/m%3D900/v2?user_id=9643357&webp=true&sig=15f2253b28211c61bca89937e7e4dfb5f92719a19bec1b6f26efb69871a7a605' alt='Andrew and Harry Looking up by Paul Kubala on 500px.com'>
- </p>
- <a href='https://500px.com/photo/290926007/andrew-and-harry-looking-up-by-paul-kubala' alt='Andrew and Harry Looking up by Paul Kubala on 500px.com'></a>
-</div>
-
-After one tree run we skinned up and made our way over to the bowls on skinners right. Here we were approached with more breathtaking views, as well as hurricane force winds. In each trough of the gullies you tour over expect the possibility of high winds as well as a slight chance of avalanche danger. The slope angels are low, but each gully is in play for avy terrain. We eventually stopped at the top of one of these gullies and skied down. Untracked 6-8 inches of snow meant with sunny days were a reminder of why conservative days are sometimes worth doing and just as fun as gnarly days. The open gully eventually constricts and turns into a tree run of similar characteristics as our first run. Just make sure, as you hit the trees, to hang skier's right to hook up with the skin trail and ski down to the trailhead.
-
-<div class='picture-container'>
- <p>
-   <img src='https://drscdn.500px.org/photo/290926023/m%3D900/v2?user_id=9643357&webp=true&sig=ef818861d0c1823c960ef4554a2ef7a1a8d0ad46f922961efa822cbb3eb79695' alt='Andrew Touring by Paul Kubala on 500px.com'>
- </p>
- <a href='https://500px.com/photo/290926023/andrew-touring-by-paul-kubala' alt='Andrew Touring by Paul Kubala on 500px.com'></a>
-</div>
-<div class='picture-container'>
- <p>
-   <img src='https://drscdn.500px.org/photo/290926027/m%3D900/v2?user_id=9643357&webp=true&sig=184b01fb23a1fc553217d84d15ab86e94e47da8d024c018bf880f21ef2b5290d' alt='Harry Touring Up by Paul Kubala on 500px.com'>
- </p>
- <a href='https://500px.com/photo/290926027/harry-touring-up-by-paul-kubala' alt='Harry Touring Up by Paul Kubala on 500px.com'></a>
-</div>
-<div class='picture-container'>
- <p>
-   <img src='https://drscdn.500px.org/photo/290925913/m%3D900/v2?user_id=9643357&webp=true&sig=a45cde97cc45e71be16314bcc2a99c2e7b1381c199021257128e67b7f05bfecf' alt='Andrew Skiing Butler Gultch Gully by Paul Kubala on 500px.com'>
- </p>
- <a href='https://500px.com/photo/290925913/andrew-skiing-butler-gultch-gully-by-paul-kubala' alt='Andrew Skiing Butler Gultch Gully by Paul Kubala on 500px.com'></a>
-</div>
-<div class='picture-container'>
- <p>
-   <img src='https://drscdn.500px.org/photo/290926675/m%3D900/v2?user_id=9643357&webp=true&sig=9d46a61be0a009782a30dc1c1fd69e6261aa5f85304a44e356a2f1e88fb81837' alt='Harry Snowboarding Down by Paul Kubala on 500px.com'>
- </p>
- <a href='https://500px.com/photo/290926675/harry-snowboarding-down-by-paul-kubala' alt='Harry Snowboarding Down by Paul Kubala on 500px.com'></a>
-</div>
-
-Butler's Gulch is a treat that everyone trying to get into backcountry should consider. It offers tons of conservative options with high rewards. If you can mind the crowds and traffic expect spectacular days.
+- Take I-70W to exit 240
+- Drive on Colorado 103 through the town of Georgetown to Echo Lake.
