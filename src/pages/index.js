@@ -1,15 +1,24 @@
 import React from 'react'
-import { Link, graphql } from "gatsby"
-import Img from "gatsby-image"
+import { Link, graphql } from 'gatsby'
+import Img from 'gatsby-image'
 
 import Layout from '../components/layout'
 import SEO from '../components/seo'
 
-
 require('./pages.scss')
 
-const keywords = ['adventure', 'blog', 'kayak', 'whitewater', 'trail', 'running', 'stories', 'van', 'sking'];
-export default ({data}) => (
+const keywords = [
+  'adventure',
+  'blog',
+  'kayak',
+  'whitewater',
+  'trail',
+  'running',
+  'stories',
+  'van',
+  'sking',
+]
+export default ({ data }) => (
   <div className="content">
     <Layout>
       <SEO title="Home" keywords={keywords} />
@@ -17,30 +26,30 @@ export default ({data}) => (
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div className="post" key={node.id}>
             <div className="col">
-              <Img sizes={node.frontmatter.featuredImage.childImageSharp.sizes} />
+              <Img
+                sizes={node.frontmatter.featuredImage.childImageSharp.sizes}
+              />
             </div>
             <div className="col content">
               <Link to={node.fields.slug}>
                 <h3>
                   {node.frontmatter.title}
                   <br />
-                  <span className="date">
-                  {node.frontmatter.date}
-                  </span>
+                  <span className="date">{node.frontmatter.date}</span>
                 </h3>
                 <p>{node.excerpt}</p>
               </Link>
-              </div>
             </div>
-          ))}
-        </div>
+          </div>
+        ))}
+      </div>
     </Layout>
   </div>
 )
 
 export const query = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(sort: { fields: [frontmatter___date], order: ASC }) {
       totalCount
       edges {
         node {
@@ -49,11 +58,11 @@ export const query = graphql`
             title
             date(formatString: "DD MMMM, YYYY")
             featuredImage {
-                childImageSharp{
-                    sizes(maxWidth: 630) {
-                        ...GatsbyImageSharpSizes
-                    }
+              childImageSharp {
+                sizes(maxWidth: 630) {
+                  ...GatsbyImageSharpSizes
                 }
+              }
             }
           }
           fields {
@@ -63,4 +72,5 @@ export const query = graphql`
         }
       }
     }
-  }`
+  }
+`
