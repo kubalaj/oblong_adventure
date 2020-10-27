@@ -13,7 +13,7 @@ featuredImage: './featured-image.jpg'
 
 <p>On part of my way home I decieded to drive US-101 from San Fransico to Otter Rock. It will be another part of what I consider the "through hiking of driving" to drive all of US-101 from Mexico to Canada. Eventually I would love to do this trip; surfing, kayaking, and mountain biking all the great terrian and wild places that the west coast has to offer.</p>
 
-<p>The drive itself was fantastic and maybe one of the prettiest drives I have done in my life. </p>
+<p>The drive itself was fantastic and maybe one of the prettiest drives I have done in my life. The roads winds and dances between rolling hills of California whine country to the rocky Pacific. I saw </p>
 
 <p>
   <img src='https://drscdn.500px.org/photo/305051873/m%3D900/v2?user_id=9643357&webp=true&sig=331e99a69459f86e331add18c5c3b2fb69096bb770c34795b0b0b0e0aa4398ab' alt='101 in Redwood National Forest by Paul Kubala on 500px.com'>
