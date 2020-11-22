@@ -18,6 +18,63 @@ featuredImage: './featured-image.jpg'
    The Vapor Trail starts in Salida, Colorado and over around 150 miles with over 15,000 feet of elevation gain takes you
 </p>
 
+<!-- First Camp-->
+<div class='picture-container'>
+   <a href='https://500px.com/photo/1024912080/first-camp-by-paul-kubala' alt='First Camp by Paul Kubala on 500px.com'>
+     <img src='https://drscdn.500px.org/photo/1024912080/m%3D900/v2?sig=baea2851fc70893a52ae53320a68496cac1376f5c3b760297b3919ee4094591d' alt='First Camp by Paul Kubala on 500px.com' />
+   </a>
+</div>
+<!-- Before First Camp -->
+<div class='picture-container'>
+<a href='https://500px.com/photo/1024912082/overlook-at-sunset-by-paul-kubala' alt='Overlook at sunset by Paul Kubala on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1024912082/m%3D900/v2?sig=bbe01eb9924372cd255b87a7226d5776c16c61057ff3c07e151c97333efeaf60' alt='Overlook at sunset by Paul Kubala on 500px.com' />
+</a>
+</div>
+<!-- View Of Princeton -->
+<div class='picture-container'>
+   <a href='https://500px.com/photo/1024510326/bikepacking-near-princeton-by-paul-kubala' alt='Bikepacking Near Princeton by Paul Kubala on 500px.com'>
+     <img src='https://drscdn.500px.org/photo/1024510326/m%3D900/v2?sig=bbfac54f76dd911c8402fdfd2fab47db56ebe02cb3739f202bd635f04e4cdaaa' alt='Bikepacking Near Princeton by Paul Kubala on 500px.com' />
+   </a>
+</div>
+<!-- Long Road -->
+<div class='picture-container'>
+<a href='https://500px.com/photo/1024510354/the-long-road-by-paul-kubala' alt='The Long Road by Paul Kubala on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1024510354/m%3D900/v2?sig=48cba16f32bf65685ea52cbadcbb531465ccd58ab2f1aa1074e6ddb8a63a41f5' alt='The Long Road by Paul Kubala on 500px.com' />
+</a>
+</div>
+<!-- Saint Elmo -->
+<div class='picture-container'>
+   <a href='https://500px.com/photo/1024912088/pit-stop-saint-elmo-by-paul-kubala' alt='Pit Stop Saint Elmo by Paul Kubala on 500px.com'>
+     <img src='https://drscdn.500px.org/photo/1024912088/m%3D900/v2?sig=114fa0edcd18db9c23ee07e81e5894b3415aae42fb0292d78b6d169231964124' alt='Pit Stop Saint Elmo by Paul Kubala on 500px.com' />
+   </a>
+</div>
+<!-- Top of Pass -->
+<div class='picture-container'>
+<a href='https://500px.com/photo/1024912081/top-of-the-pass-by-paul-kubala' alt='Top of the pass by Paul Kubala on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1024912081/m%3D900/v2?sig=d9ad901aa789fefc3304339c13430fef29b5b8c35c9386d67746415b68986678' alt='Top of the pass by Paul Kubala on 500px.com' />
+</a>
+</div>
+<!-- Old Railway -->
+<div class='picture-container'>
+<a href='https://500px.com/photo/1024511366/view-of-the-old-railway-by-paul-kubala' alt='View Of The Old Railway by Paul Kubala on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1024511366/m%3D900/v2?sig=c25d5f5b55ec02681b141bbdcddb98c699a8f86835e1a9dbe778cb11d81f8fad' alt='View Of The Old Railway by Paul Kubala on 500px.com' />
+</a>
+</div>
+<!-- Dude Hiking -->
+<div class='picture-container'>
+<a href='https://500px.com/photo/1024912083/hiking-to-the-top-by-paul-kubala' alt='Hiking to the top by Paul Kubala on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1024912083/m%3D900/v2?sig=3664889e66973844b01b0ee577bca07d821021404bb5b8c259f7a8a092c0ac89' alt='Hiking to the top by Paul Kubala on 500px.com' />
+</a>
+</div>
+
+<!-- End  -->
+<div class='picture-container'>
+<a href='https://500px.com/photo/1024510343/end-of-a-trip-by-paul-kubala' alt='End of a trip by Paul Kubala on 500px.com'>
+  <img src='https://drscdn.500px.org/photo/1024510343/m%3D900/v2?sig=dec88f352f7c4194d8db67dbb765749562567e92679bd235384acdc2d3787e26' alt='End of a trip by Paul Kubala on 500px.com' />
+</a>
+</div>
+
+<!-- Trip Report -->
 <h3>TLDR TRIP Report and Review</h3>
 
 <div class="ratting-grid">
@@ -131,69 +188,3 @@ We started the day with a sweltering -8 temps and a skin accompanied with a crow
 Skinning up to the top of our first descent wasn't too physically demanding. Considering I was the slowest of the group, coming from a combination of sea level and a stressful desk job fitness level, it took us maybe 1-2 hours to get to the top of our first decent.
 
 We spent the first run, as shown on the map, skiing a treed aspect with deep powder on skinners left. The trees, although tight, where spread out enough that there were no issues skiing between all the trees with almost no hazards; minus tree wells.
-
-<!-- Dude Hiking -->
-<div class='picture-container'>
-<a href='https://500px.com/photo/1024912083/hiking-to-the-top-by-paul-kubala' alt='Hiking to the top by Paul Kubala on 500px.com'>
-  <img src='https://drscdn.500px.org/photo/1024912083/m%3D900/v2?sig=3664889e66973844b01b0ee577bca07d821021404bb5b8c259f7a8a092c0ac89' alt='Hiking to the top by Paul Kubala on 500px.com' />
-</a>
-</div>
-<!-- Saint Elmo -->
-<div class='picture-container'>
-   <a href='https://500px.com/photo/1024912088/pit-stop-saint-elmo-by-paul-kubala' alt='Pit Stop Saint Elmo by Paul Kubala on 500px.com'>
-     <img src='https://drscdn.500px.org/photo/1024912088/m%3D900/v2?sig=114fa0edcd18db9c23ee07e81e5894b3415aae42fb0292d78b6d169231964124' alt='Pit Stop Saint Elmo by Paul Kubala on 500px.com' />
-   </a>
-</div>
-
-After one tree run we skinned up and made our way over to the bowls on skinners right. Here we were approached with more breathtaking views, as well as hurricane force winds. In each trough of the gullies you tour over expect the possibility of high winds as well as a slight chance of avalanche danger. The slope angels are low, but each gully is in play for avy terrain. We eventually stopped at the top of one of these gullies and skied down. Untracked 6-8 inches of snow meant with sunny days were a reminder of why conservative days are sometimes worth doing and just as fun as gnarly days. The open gully eventually constricts and turns into a tree run of similar characteristics as our first run. Just make sure, as you hit the trees, to hang skier's right to hook up with the skin trail and ski down to the trailhead.
-
-<!-- First Camp-->
-<div class='picture-container'>
-   <a href='https://500px.com/photo/1024912080/first-camp-by-paul-kubala' alt='First Camp by Paul Kubala on 500px.com'>
-     <img src='https://drscdn.500px.org/photo/1024912080/m%3D900/v2?sig=baea2851fc70893a52ae53320a68496cac1376f5c3b760297b3919ee4094591d' alt='First Camp by Paul Kubala on 500px.com' />
-   </a>
-</div>
-<!-- Top of Pass -->
-<div class='picture-container'>
-<a href='https://500px.com/photo/1024912081/top-of-the-pass-by-paul-kubala' alt='Top of the pass by Paul Kubala on 500px.com'>
-  <img src='https://drscdn.500px.org/photo/1024912081/m%3D900/v2?sig=d9ad901aa789fefc3304339c13430fef29b5b8c35c9386d67746415b68986678' alt='Top of the pass by Paul Kubala on 500px.com' />
-</a>
-</div>
-<!-- Before First Camp -->
-<div class='picture-container'>
-<a href='https://500px.com/photo/1024912082/overlook-at-sunset-by-paul-kubala' alt='Overlook at sunset by Paul Kubala on 500px.com'>
-  <img src='https://drscdn.500px.org/photo/1024912082/m%3D900/v2?sig=bbe01eb9924372cd255b87a7226d5776c16c61057ff3c07e151c97333efeaf60' alt='Overlook at sunset by Paul Kubala on 500px.com' />
-</a>
-</div>
-<!-- Old Railway -->
-<div class='picture-container'>
-<a href='https://500px.com/photo/1024511366/view-of-the-old-railway-by-paul-kubala' alt='View Of The Old Railway by Paul Kubala on 500px.com'>
-  <img src='https://drscdn.500px.org/photo/1024511366/m%3D900/v2?sig=c25d5f5b55ec02681b141bbdcddb98c699a8f86835e1a9dbe778cb11d81f8fad' alt='View Of The Old Railway by Paul Kubala on 500px.com' />
-</a>
-</div>
-<!-- Long Road -->
-<div class='picture-container'>
-<a href='https://500px.com/photo/1024510354/the-long-road-by-paul-kubala' alt='The Long Road by Paul Kubala on 500px.com'>
-  <img src='https://drscdn.500px.org/photo/1024510354/m%3D900/v2?sig=48cba16f32bf65685ea52cbadcbb531465ccd58ab2f1aa1074e6ddb8a63a41f5' alt='The Long Road by Paul Kubala on 500px.com' />
-</a>
-</div>
-<!-- View Of Princeton -->
-<div class='picture-container'>
-   <a href='https://500px.com/photo/1024510326/bikepacking-near-princeton-by-paul-kubala' alt='Bikepacking Near Princeton by Paul Kubala on 500px.com'>
-     <img src='https://drscdn.500px.org/photo/1024510326/m%3D900/v2?sig=bbfac54f76dd911c8402fdfd2fab47db56ebe02cb3739f202bd635f04e4cdaaa' alt='Bikepacking Near Princeton by Paul Kubala on 500px.com' />
-   </a>
-</div>
-<!--  -->
-<div class='picture-container'>
-</div>
-<!--  -->
-<div class='picture-container'>
-</div>
-<!--  -->
-<div class='picture-container'>
-</div>
-<!--  -->
-<div class='picture-container'>
-</div>
-
-Butler's Gulch is a treat that everyone trying to get into backcountry should consider. It offers tons of conservative options with high rewards. If you can mind the crowds and traffic expect spectacular days.
