@@ -10,6 +10,11 @@ $color-default: #000;
 $color-secondary: #313d4b;
 $color-accent: #f5f5f5;
 
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 375px) and (max-device-width: 812px) and (-webkit-min-device-pixel-ratio: 3) {
+  $font-size-title: 10px;
+}
+
 body {
   // background-color: $color-accent;
 }
